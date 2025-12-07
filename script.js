@@ -1191,4 +1191,3 @@ function handleContinueNavigation() {
             showScreen('main');
     }
 }
-                        l
